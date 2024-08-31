@@ -16,6 +16,7 @@ function App() {
       <table>
         <thead>
           <tr>
+            <th>Profile picture</th>
             <th>First Name</th>
             <th>Last Name</th>
             <th>Email</th>
@@ -28,13 +29,20 @@ function App() {
             return Search.toLowerCase() === "" ? item : item.first_name.toLowerCase().includes(Search);
           }).map((item) => (
             <tr key={item.id}>
+               <td>
+                <img 
+                  src={item.profile_picture} 
+                  alt={`${item.first_name} ${item.last_name}`} 
+                  style={{ width: '50px', height: '50px', borderRadius: '50%' }}
+                />
+              </td>
               <td>{item.first_name}</td>
               <td>{item.last_name}</td>
               <td>{item.email}</td>
               <td>{item.phone}</td>
             </tr>
           ))}
-  
+
         </tbody>
       </table>
     </div>

@@ -1,482 +1,355 @@
 export const data = [
     {
     "id": 1,
+    "profile_picture": "./src/assets/1-intro-photo-final.jpg",
     "first_name": "Ky",
     "last_name": "Macklin",
     "email": "kmacklin0@shinystat.com",
-    "phone": "285-389-9662"
+    "phone": "285-389-9662",
   }, {
     "id": 2,
+    "profile_picture": "./src/assets/beautiful-young-african.webp",
     "first_name": "Kerry",
     "last_name": "Chazelle",
     "email": "kchazelle1@imgur.com",
     "phone": "966-170-4242"
   }, {
     "id": 3,
+    "profile_picture": "./src/assets/fat man.png",
     "first_name": "Trescha",
     "last_name": "Sarll",
     "email": "tsarll2@ca.gov",
     "phone": "700-606-6207"
   }, {
     "id": 4,
+    "profile_picture": "./src/assets/girl simling.jpg",
     "first_name": "Farlay",
     "last_name": "Prestner",
     "email": "fprestner3@princeton.edu",
     "phone": "552-617-0586"
   }, {
     "id": 5,
+    "profile_picture": "./src/assets/green tree girl.jpg",
     "first_name": "Ron",
     "last_name": "Gowing",
     "email": "rgowing4@vimeo.com",
     "phone": "632-993-5719"
   }, {
     "id": 6,
+    "profile_picture": "./src/assets/happy-african-american.webp",
     "first_name": "Ivar",
     "last_name": "Cust",
     "email": "icust5@xrea.com",
     "phone": "104-528-1471"
   }, {
     "id": 7,
+    "profile_picture": "./src/assets/pngtree-arabic-girl.jpg",
     "first_name": "Ashien",
     "last_name": "Lancaster",
     "email": "alancaster6@plala.or.jp",
     "phone": "302-802-1369"
   }, {
     "id": 8,
+    "profile_picture": "./src/assets/portrait-smiling-african.webp",
     "first_name": "Emily",
     "last_name": "Edgerley",
     "email": "eedgerley7@shinystat.com",
     "phone": "216-226-6828"
   }, {
     "id": 9,
+    "profile_picture": "./src/assets/profile-picture.webp",
     "first_name": "Lucila",
     "last_name": "Griffin",
     "email": "lgriffin8@unc.edu",
     "phone": "505-152-6925"
   }, {
     "id": 10,
+    "profile_picture": "./src/assets/smiling-successful.webp",
     "first_name": "Billy",
     "last_name": "Dyball",
     "email": "bdyball9@arizona.edu",
     "phone": "948-244-5829"
   }, {
     "id": 11,
+    "profile_picture": "./src/assets/1-intro-photo-final.jpg",
     "first_name": "Terry",
     "last_name": "Barhem",
     "email": "tbarhema@issuu.com",
     "phone": "714-602-1351"
   }, {
     "id": 12,
+    "profile_picture": "./src/assets/beautiful-young-african.webp",
     "first_name": "Joycelin",
     "last_name": "Dellit",
     "email": "jdellitb@etsy.com",
     "phone": "714-662-7461"
   }, {
     "id": 13,
+    "profile_picture": "./src/assets/fat man.png",
     "first_name": "Kevyn",
     "last_name": "Sunshine",
     "email": "ksunshinec@elpais.com",
     "phone": "426-273-4495"
   }, {
     "id": 14,
+    "profile_picture": "./src/assets/girl simling.jpg",
     "first_name": "Decca",
     "last_name": "De Fraine",
     "email": "ddefrained@soup.io",
     "phone": "212-439-2223"
   }, {
     "id": 15,
+    "profile_picture": "./src/assets/green tree girl.jpg",
     "first_name": "Luca",
     "last_name": "Brandes",
     "email": "lbrandese@bloglovin.com",
     "phone": "198-807-7857"
   }, {
     "id": 16,
+    "profile_picture": "./src/assets/happy-african-american.webp",
     "first_name": "Enrika",
     "last_name": "Ginty",
     "email": "egintyf@rambler.ru",
     "phone": "619-178-5789"
   }, {
     "id": 17,
+    "profile_picture": "./src/assets/pngtree-arabic-girl.jpg",
     "first_name": "Teodoor",
     "last_name": "Nellies",
     "email": "tnelliesg@pagesperso-orange.fr",
     "phone": "841-183-2981"
   }, {
     "id": 18,
+    "profile_picture": "./src/assets/portrait-smiling-african.webp",
     "first_name": "Eddi",
     "last_name": "Rowberry",
     "email": "erowberryh@behance.net",
     "phone": "151-525-9287"
   }, {
     "id": 19,
+    "profile_picture": "./src/assets/profile-picture.webp",
     "first_name": "Hedwig",
     "last_name": "Oseman",
     "email": "hosemani@cafepress.com",
     "phone": "896-933-2661"
   }, {
     "id": 20,
+    "profile_picture": "./src/assets/smiling-successful.webp",
     "first_name": "Ephrem",
     "last_name": "Carthew",
     "email": "ecarthewj@ezinearticles.com",
     "phone": "827-776-8360"
   }, {
     "id": 21,
+    "profile_picture": "./src/assets/1-intro-photo-final.jpg",
     "first_name": "Reinwald",
     "last_name": "Melton",
     "email": "rmeltonk@wiley.com",
     "phone": "202-278-4991"
   }, {
     "id": 22,
+    "profile_picture": "./src/assets/beautiful-young-african.webp",
     "first_name": "Laurens",
     "last_name": "Mewis",
     "email": "lmewisl@nba.com",
     "phone": "188-557-0855"
   }, {
     "id": 23,
+    "profile_picture": "./src/assets/fat man.png",
     "first_name": "Marguerite",
     "last_name": "Eglin",
     "email": "meglinm@symantec.com",
     "phone": "750-636-7926"
   }, {
     "id": 24,
+    "profile_picture": "./src/assets/girl simling.jpg",
     "first_name": "Ingelbert",
     "last_name": "Hassen",
     "email": "ihassenn@sogou.com",
     "phone": "181-167-9540"
   }, {
     "id": 25,
+    "profile_picture": "./src/assets/green tree girl.jpg",
     "first_name": "Jody",
     "last_name": "Bestwall",
     "email": "jbestwallo@eventbrite.com",
     "phone": "178-487-1636"
   }, {
     "id": 26,
+    "profile_picture": "./src/assets/happy-african-american.webp",
     "first_name": "Wilmette",
     "last_name": "Gott",
     "email": "wgottp@dropbox.com",
     "phone": "909-702-0344"
   }, {
     "id": 27,
+    "profile_picture": "./src/assets/pngtree-arabic-girl.jpg",
     "first_name": "Cherianne",
     "last_name": "Borrow",
     "email": "cborrowq@purevolume.com",
     "phone": "287-723-3638"
   }, {
     "id": 28,
+    "profile_picture": "./src/assets/portrait-smiling-african.webp",
     "first_name": "Zsa zsa",
     "last_name": "Blagburn",
     "email": "zblagburnr@goo.ne.jp",
     "phone": "640-499-5367"
   }, {
     "id": 29,
+    "profile_picture": "./src/assets/profile-picture.webp",
     "first_name": "Tucky",
     "last_name": "Tolson",
     "email": "ttolsons@vimeo.com",
     "phone": "983-832-0921"
   }, {
     "id": 30,
+    "profile_picture": "./src/assets/smiling-successful.webp",
     "first_name": "Maisey",
     "last_name": "Fosher",
     "email": "mfoshert@pinterest.com",
     "phone": "786-308-1758"
   }, {
     "id": 31,
+    "profile_picture": "./src/assets/1-intro-photo-final.jpg",
     "first_name": "Pavlov",
     "last_name": "Sommerly",
     "email": "psommerlyu@imageshack.us",
     "phone": "109-920-6090"
   }, {
     "id": 32,
+    "profile_picture": "./src/assets/beautiful-young-african.webp",
     "first_name": "Brinn",
     "last_name": "Cundey",
     "email": "bcundeyv@wsj.com",
     "phone": "159-485-1057"
   }, {
     "id": 33,
+    "profile_picture": "./src/assets/fat man.png",
     "first_name": "Delila",
     "last_name": "Lisciandro",
     "email": "dlisciandrow@answers.com",
     "phone": "811-215-6244"
   }, {
     "id": 34,
+    "profile_picture": "./src/assets/girl simling.jpg",
     "first_name": "Betsey",
     "last_name": "Hartington",
     "email": "bhartingtonx@apache.org",
     "phone": "995-790-2419"
   }, {
     "id": 35,
+    "profile_picture": "./src/assets/green tree girl.jpg",
     "first_name": "Ina",
     "last_name": "Schafer",
     "email": "ischafery@wikimedia.org",
     "phone": "869-736-6829"
   }, {
     "id": 36,
+    "profile_picture": "./src/assets/happy-african-american.webp",
     "first_name": "Carlen",
     "last_name": "Mizzen",
     "email": "cmizzenz@github.com",
     "phone": "261-184-6150"
   }, {
     "id": 37,
+    "profile_picture": "./src/assets/pngtree-arabic-girl.jpg",
     "first_name": "Lilyan",
     "last_name": "Houldcroft",
     "email": "lhouldcroft10@unc.edu",
     "phone": "905-429-3683"
   }, {
     "id": 38,
+    "profile_picture": "./src/assets/portrait-smiling-african.webp",
     "first_name": "Cord",
     "last_name": "Dun",
     "email": "cdun11@wix.com",
     "phone": "291-213-3806"
   }, {
     "id": 39,
+    "profile_picture": "./src/assets/profile-picture.webp",
     "first_name": "Nikolaos",
     "last_name": "Tordoff",
     "email": "ntordoff12@google.co.uk",
     "phone": "214-389-7856"
   }, {
     "id": 40,
+    "profile_picture": "./src/assets/smiling-successful.webp",
     "first_name": "Carol",
     "last_name": "Bowne",
     "email": "cbowne13@ucla.edu",
     "phone": "880-797-9298"
   }, {
     "id": 41,
+    "profile_picture": "./src/assets/1-intro-photo-final.jpg",
     "first_name": "Deloris",
     "last_name": "Townrow",
     "email": "dtownrow14@foxnews.com",
     "phone": "520-441-7001"
   }, {
     "id": 42,
+    "profile_picture": "./src/assets/beautiful-young-african.webp",
     "first_name": "Rachael",
     "last_name": "Bawden",
     "email": "rbawden15@sina.com.cn",
     "phone": "180-926-9500"
   }, {
     "id": 43,
+    "profile_picture": "./src/assets/fat man.png",
     "first_name": "Saundra",
     "last_name": "John",
     "email": "sjohn16@apple.com",
     "phone": "409-472-7899"
   }, {
     "id": 44,
+    "profile_picture": "./src/assets/girl simling.jpg",
     "first_name": "Bartolemo",
     "last_name": "Dugdale",
     "email": "bdugdale17@chicagotribune.com",
     "phone": "902-939-8630"
   }, {
     "id": 45,
+    "profile_picture": "./src/assets/green tree girl.jpg",
     "first_name": "Leonhard",
     "last_name": "Sictornes",
     "email": "lsictornes18@discuz.net",
     "phone": "541-623-7512"
   }, {
     "id": 46,
+    "profile_picture": "./src/assets/happy-african-american.webp",
     "first_name": "Isobel",
     "last_name": "De Minico",
     "email": "ideminico19@nationalgeographic.com",
     "phone": "604-420-2741"
   }, {
     "id": 47,
+    "profile_picture": "./src/assets/pngtree-arabic-girl.jpg",
     "first_name": "Francisco",
     "last_name": "Macknish",
     "email": "fmacknish1a@seesaa.net",
     "phone": "324-433-8218"
   }, {
     "id": 48,
+    "profile_picture": "./src/assets/portrait-smiling-african.webp",
     "first_name": "Lulu",
     "last_name": "Antonikov",
     "email": "lantonikov1b@wiley.com",
     "phone": "953-237-2286"
   }, {
     "id": 49,
+    "profile_picture": "./src/assets/profile-picture.webp",
     "first_name": "Alejandra",
     "last_name": "Jon",
     "email": "ajon1c@last.fm",
     "phone": "160-872-0422"
   }, {
     "id": 50,
+    "profile_picture": "./src/assets/smiling-successful.webp",
     "first_name": "Gil",
     "last_name": "Barnby",
     "email": "gbarnby1d@unicef.org",
     "phone": "991-918-5047"
-  }, {
-    "id": 51,
-    "first_name": "Adolf",
-    "last_name": "Martill",
-    "email": "amartill1e@4shared.com",
-    "phone": "686-834-9797"
-  }, {
-    "id": 52,
-    "first_name": "Lissi",
-    "last_name": "Norley",
-    "email": "lnorley1f@patch.com",
-    "phone": "762-174-7557"
-  }, {
-    "id": 53,
-    "first_name": "Gardy",
-    "last_name": "Tidgewell",
-    "email": "gtidgewell1g@theatlantic.com",
-    "phone": "950-668-6703"
-  }, {
-    "id": 54,
-    "first_name": "Janet",
-    "last_name": "Struttman",
-    "email": "jstruttman1h@oracle.com",
-    "phone": "710-908-9663"
-  }, {
-    "id": 55,
-    "first_name": "Susi",
-    "last_name": "Kobsch",
-    "email": "skobsch1i@hc360.com",
-    "phone": "573-913-7035"
-  }, {
-    "id": 56,
-    "first_name": "Hilliard",
-    "last_name": "Haggerston",
-    "email": "hhaggerston1j@pagesperso-orange.fr",
-    "phone": "464-907-9165"
-  }, {
-    "id": 57,
-    "first_name": "Eddy",
-    "last_name": "Tellenbach",
-    "email": "etellenbach1k@examiner.com",
-    "phone": "539-278-6184"
-  }, {
-    "id": 58,
-    "first_name": "Tome",
-    "last_name": "Marlen",
-    "email": "tmarlen1l@sakura.ne.jp",
-    "phone": "216-209-4446"
-  }, {
-    "id": 59,
-    "first_name": "Dionysus",
-    "last_name": "Carhart",
-    "email": "dcarhart1m@youtu.be",
-    "phone": "501-765-0617"
-  }, {
-    "id": 60,
-    "first_name": "Thayne",
-    "last_name": "Darton",
-    "email": "tdarton1n@sfgate.com",
-    "phone": "782-681-5907"
-  }, {
-    "id": 61,
-    "first_name": "Charlot",
-    "last_name": "Hows",
-    "email": "chows1o@marketwatch.com",
-    "phone": "478-784-3789"
-  }, {
-    "id": 62,
-    "first_name": "Bendicty",
-    "last_name": "Hazeltine",
-    "email": "bhazeltine1p@disqus.com",
-    "phone": "305-736-7248"
-  }, {
-    "id": 63,
-    "first_name": "Lon",
-    "last_name": "Ficken",
-    "email": "lficken1q@ft.com",
-    "phone": "612-359-2594"
-  }, {
-    "id": 64,
-    "first_name": "Malissa",
-    "last_name": "Cleworth",
-    "email": "mcleworth1r@furl.net",
-    "phone": "960-436-7450"
-  }, {
-    "id": 65,
-    "first_name": "Jamie",
-    "last_name": "D'Antonio",
-    "email": "jdantonio1s@weibo.com",
-    "phone": "948-508-3597"
-  }, {
-    "id": 66,
-    "first_name": "Amitie",
-    "last_name": "Weatherhill",
-    "email": "aweatherhill1t@google.com.br",
-    "phone": "719-958-8359"
-  }, {
-    "id": 67,
-    "first_name": "Fowler",
-    "last_name": "Wooffinden",
-    "email": "fwooffinden1u@drupal.org",
-    "phone": "321-659-6911"
-  }, {
-    "id": 68,
-    "first_name": "Vanna",
-    "last_name": "Wigmore",
-    "email": "vwigmore1v@aol.com",
-    "phone": "296-838-4604"
-  }, {
-    "id": 69,
-    "first_name": "Rebbecca",
-    "last_name": "Aloshechkin",
-    "email": "raloshechkin1w@google.com.hk",
-    "phone": "273-146-8355"
-  }, {
-    "id": 70,
-    "first_name": "Nady",
-    "last_name": "Kobes",
-    "email": "nkobes1x@hud.gov",
-    "phone": "422-579-0480"
-  }, {
-    "id": 71,
-    "first_name": "Viola",
-    "last_name": "Guillerman",
-    "email": "vguillerman1y@cbc.ca",
-    "phone": "999-647-3512"
-  }, {
-    "id": 72,
-    "first_name": "Melisse",
-    "last_name": "Sherar",
-    "email": "msherar1z@sun.com",
-    "phone": "915-950-4881"
-  }, {
-    "id": 73,
-    "first_name": "Florina",
-    "last_name": "Yurchishin",
-    "email": "fyurchishin20@squarespace.com",
-    "phone": "647-773-0785"
-  }, {
-    "id": 74,
-    "first_name": "Fredelia",
-    "last_name": "Padgett",
-    "email": "fpadgett21@blogger.com",
-    "phone": "142-687-9927"
-  }, {
-    "id": 75,
-    "first_name": "Shel",
-    "last_name": "Knowlman",
-    "email": "sknowlman22@wufoo.com",
-    "phone": "162-813-1409"
-  }, {
-    "id": 76,
-    "first_name": "Pauletta",
-    "last_name": "Nosworthy",
-    "email": "pnosworthy23@redcross.org",
-    "phone": "225-986-4677"
-  }, {
-    "id": 77,
-    "first_name": "Cassie",
-    "last_name": "Coldbreath",
-    "email": "ccoldbreath24@jugem.jp",
-    "phone": "999-583-4644"
-  }, {
-    "id": 78,
-    "first_name": "Henryetta",
-    "last_name": "Curley",
-    "email": "hcurley25@businesswire.com",
-    "phone": "659-743-6987"
-  }, {
-    "id": 79,
-    "first_name": "Gabriellia",
-    "last_name": "Pilgram",
-    "email": "gpilgram26@123-reg.co.uk",
-    "phone": "140-453-7987"
-  }, {
-    "id": 80,
-    "first_name": "Raphaela",
-    "last_name": "Stachini",
-    "email": "rstachini27@ustream.tv",
-    "phone": "745-790-6362"
-  }]
+  }
+];
+
+  
