@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import { data } from './assets/data'
+import { data } from './data'
 
 function App() {
   const [Search, setSearch] = useState('');
